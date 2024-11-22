@@ -42,5 +42,6 @@ async def check(ctx):
         await ctx.send("Olvidaste subir la imagen :(")
 bot.run()
 ## Los artículos de la guía que me ayudarán durante el desarrollo
-El mejor profe de Python pro (;
+El mejor profe de Python pro (; Y tambien esto: https://www.nationalgeographic.es/medio-ambiente/que-es-el-calentamiento-global
+Y esto: https://www.climate.gov/news-features/climate-qa/¿qué-podemos-hacer-para-frenar-o-detener-el-calentamiento-global
 ## Saludos profe
