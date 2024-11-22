@@ -1,0 +1,10 @@
+pipenv install tensorflow=="2.15"
+
+pipenv install  keras=="2.15"
+
+pipenv --python 3.11
+
+pipenv shell 
+
+pipenv install discord
+
