@@ -9,7 +9,6 @@ Este es mi proyecto final de python pro
 ## Las bibliotecas que voy a utilizar:
 - Biblioteca discord
 - Biblioteca commands
-- Biblioteca os, random
 - Biblioteca get_class
 - Biblioteca Image, ImageOps
 - Biblioteca numpy as np
