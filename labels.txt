@@ -1,0 +1,2 @@
+0 Contaminadas
+1 Naturales
